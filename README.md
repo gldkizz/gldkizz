@@ -1,6 +1,6 @@
 ### Hi there, I'm Timur Gapterakhmanov 👋
 
-📍 **Kazan, Russia** | 🎓 **2nd year CS student at KNITU**  
+📍 **Kazan, Russia** | 🎓 **2nd year CS student at KNRTU**  
 💻 **Web Developer** | 🚀 **Hackathon & Coding Competition Enthusiast**
 
 - 🔭 **I’m currently working on**  
